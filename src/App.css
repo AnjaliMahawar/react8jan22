@@ -1,0 +1,15 @@
+header,footer{
+    height: 100px;
+    background-color: bisque;
+    border: 2px dashed brown;
+}
+main{
+    min-height: 400px;
+    background-color: plum;
+    border: 2px dashed palevioletred;
+
+}
+li{
+    background-color: cadetblue;
+
+}
